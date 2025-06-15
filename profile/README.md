@@ -5,7 +5,7 @@
 
 [![](https://dcbadge.limes.pink/api/server/CJUAccGtVP)](https://discord.gg/CJUAccGtVP)
 
-Nostalgica Reverie is a new organization meant to unify projects that re-create old Minecraft into one umbrella.
+Nostalgica Reverie is an organization meant to unify projects that re-create old Minecraft into one umbrella.
 
 <!-- TODO: switch to our own source for mod icons once the site is setup -->
 <!-- modrinth cdn sucks -->
